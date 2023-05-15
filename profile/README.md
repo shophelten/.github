@@ -10,7 +10,7 @@ Vi er et hold af eksperter, der er specialiserede i at løse opgaver af enhver s
 
 ## Hurtig reaktion
 
-i forstår at din hjemmeside er vigtig - og vi bestræber os på at opstarte alle akutte opgaver indenfor 24 timer. 
+Vi forstår at din hjemmeside er vigtig - og vi bestræber os på at opstarte alle akutte opgaver indenfor 24 timer. 
 
 ## Simpel afregning
 
