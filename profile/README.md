@@ -1,4 +1,4 @@
-[![ShopHelten - Vi løser alle opgaver, store som små.](assets/ShopHelten-logo.png "ShopHelten Logo")](https://shophelten.dk/)
+[![ShopHelten - Vi løser alle opgaver, store som små.](../assets/ShopHelten-logo.png)](https://shophelten.dk/)
 
 # Velkommen til ShopHelten
 
