@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://shophelten.dk/">
         <picture>
-            <source srcset="assets/ShopHelten-logo-dark.png" media="(prefers-color-scheme: dark)">
+            <source srcset="assets/ShopHelten-logo.png" media="(prefers-color-scheme: dark)">
             <img src="assets/ShopHelten-logo-white.png" alt="ShopHelten - Vi løser alle opgaver, store som små." width="300">
         </picture>
     </a>
