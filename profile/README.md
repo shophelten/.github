@@ -1,8 +1,8 @@
 <div align="center">
     <a href="https://shophelten.dk/">
         <picture>
-            <source srcset="../assets/ShopHelten-logo-dark.png" media="(prefers-color-scheme: dark)">
-            <img src="../assets/ShopHelten-logo-white.png" alt="ShopHelten - Vi løser alle opgaver, store som små." width="300">
+            <source srcset="assets/ShopHelten-logo-dark.png" media="(prefers-color-scheme: dark)">
+            <img src="assets/ShopHelten-logo-white.png" alt="ShopHelten - Vi løser alle opgaver, store som små." width="300">
         </picture>
     </a>
 </div>
@@ -36,7 +36,7 @@ Eksperter hænger på træerne, men hos ShopHelten får du ægte kærlighed til 
 
 <div align="center">
     <p>
-        <a href="https://shophelten.dk/">
+        <a href="https://shophelten.dk/" target="_blank">
             <img src="https://img.shields.io/badge/Besøg_vores-Hjemmeside-blue?style=for-the-badge&logo=shopify" alt="Visit Website">
         </a>
     </p>
